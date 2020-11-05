@@ -1,2 +1,2 @@
-# class26
-git and gitbash,git commands, added a platform
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
